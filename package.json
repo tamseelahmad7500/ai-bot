@@ -1,0 +1,12 @@
+{
+  "name": "ai-bot",
+  "version": "2.0.0",
+  "private": true,
+  "description": "AI Bot chat website with a server-side OpenRouter connection",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
